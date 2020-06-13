@@ -1,0 +1,10 @@
+2020-06-12 20:06:24,161 INFO com.virtusa.customerapidemo.Vistusaproject1Application [restartedMain] Starting Vistusaproject1Application on chethana with PID 11460 (C:\Users\chethana\git\virtusatraining\vistusaproject1\target\classes started by chethana in C:\Users\chethana\git\virtusatraining\vistusaproject1)
+2020-06-12 20:06:24,165 DEBUG com.virtusa.customerapidemo.Vistusaproject1Application [restartedMain] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-12 20:06:24,166 INFO com.virtusa.customerapidemo.Vistusaproject1Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-06-12 20:22:37,201 INFO com.virtusa.customerapidemo.Vistusaproject1Application [restartedMain] Starting Vistusaproject1Application on chethana with PID 12464 (C:\Users\chethana\git\virtusatraining\vistusaproject1\target\classes started by chethana in C:\Users\chethana\git\virtusatraining\vistusaproject1)
+2020-06-12 20:22:37,206 DEBUG com.virtusa.customerapidemo.Vistusaproject1Application [restartedMain] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-12 20:22:37,206 INFO com.virtusa.customerapidemo.Vistusaproject1Application [restartedMain] The following profiles are active: development
+2020-06-12 20:31:28,995 INFO com.virtusa.customerapidemo.Vistusaproject1Application [restartedMain] Starting Vistusaproject1Application on chethana with PID 904 (C:\Users\chethana\git\virtusatraining\vistusaproject1\target\classes started by chethana in C:\Users\chethana\git\virtusatraining\vistusaproject1)
+2020-06-12 20:31:29,016 DEBUG com.virtusa.customerapidemo.Vistusaproject1Application [restartedMain] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-12 20:31:29,016 INFO com.virtusa.customerapidemo.Vistusaproject1Application [restartedMain] The following profiles are active: development
+2020-06-12 20:31:47,382 INFO com.virtusa.customerapidemo.Vistusaproject1Application [restartedMain] Started Vistusaproject1Application in 18.766 seconds (JVM running for 22.546)
