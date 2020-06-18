@@ -1,5 +1,3 @@
-
-  
 db_url=jdbc:mysql://localhost:3306/virtusacustomerproddb?useSSL=true
 db_username=root
 db_password=root
